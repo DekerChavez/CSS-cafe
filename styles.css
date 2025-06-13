@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+.menu{
+    text-align: center;
+}
+h1, h2 {
+    font-family: Impact;
+}
+.flavor{
+    text-align: left;
+}
+.topping{
+    text-align: left;
+}
+.price{
+    text-align: right;
+}
+
+footer{
+    text-align: right;
+}
